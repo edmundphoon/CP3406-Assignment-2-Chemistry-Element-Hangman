@@ -1,0 +1,4 @@
+#Wed May 29 17:39:58 SGT 2019
+base.0=/Users/edmundpjc/Desktop/JCU Period 3___18_03_19 to 21_06_19/CP3406 Mobile Computing/Assignment 2/ChemistryElementHangman/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
