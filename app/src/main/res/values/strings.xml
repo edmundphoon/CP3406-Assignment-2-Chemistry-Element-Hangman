@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ChemistryElementHangman</string>
+    <string name="chemistry_element_hangman">Chemistry Element Hangman</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="guess_the_element">Guess the element</string>
+    <string name="answer">Answer</string>
+</resources>

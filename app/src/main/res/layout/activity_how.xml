@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/chemistryelementbackground"
+    android:title="HowTo"
+    tools:context=".HowTo">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="204dp"
+            android:orientation="horizontal">
+
+            <Space
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/instructions"
+                android:layout_width="300dp"
+                android:layout_height="266dp"
+                android:text="Guess the name of an element from the periodic table to earn points. Guess the wrong word and part of the hangman will be formed!"
+                android:textSize="24sp" />
+
+            <Space
+                android:layout_width="20dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/instruction_image"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            app:srcCompat="@drawable/hangman_11"
+            tools:srcCompat="@drawable/hangman_11" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="25dp" />
+
+    </LinearLayout>
+</RelativeLayout>
