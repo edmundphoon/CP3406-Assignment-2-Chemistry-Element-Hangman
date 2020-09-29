@@ -21,8 +21,18 @@ Summary
   - Leaderboard
 
 
+• Classes:
+
+  - MainActivity.java
+  - GameActivity.java
+  - ElementItem.java
+  - Database.java
+  - HowTo.java
+
+
 Learning outcomes from the assignment guidelines:
 
 • Gain practical experience using the software components of a modern mobile platform, and the hardware components of modern mobile devices
 
 • Create and deploy mobile applications that adhere to the guidelines of a modern mobile platform
+
