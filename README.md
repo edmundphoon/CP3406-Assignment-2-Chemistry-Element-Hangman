@@ -2,6 +2,7 @@
 
 This is the educational game assignment created using Android Studio in the module CP3406 Mobile Computing.
 
+
 Summary
 
 • An educational game assignment based on the chemical elements of the periodic table.
@@ -18,6 +19,7 @@ Summary
   - Instructions
   - Game screen
   - Leaderboard
+
 
 Learning outcomes from the assignment guidelines:
 
